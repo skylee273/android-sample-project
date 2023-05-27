@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="convert_string">액티비티 이동</string>
+    <string name="MainText">TextView</string>
+    <string name="dollars_hint">dollars_hint</string>
+    <string name="app_name">ViewModelDemo</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="convert">Convert</string>
+</resources>
