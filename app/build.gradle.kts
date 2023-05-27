@@ -33,6 +33,7 @@ android {
 
     buildFeatures {
         viewBinding =  true
+        dataBinding = true
     }
 }
 
@@ -42,6 +43,7 @@ dependencies {
     implementation(libs.material)
     implementation("com.jakewharton.timber:timber:5.0.1")
     implementation(libs.androidx.constraintlayout)
+    implementation("androidx.fragment:fragment-ktx:1.5.7")
 
     // Testing dependencies
     testImplementation("junit:junit:4.13.2")
